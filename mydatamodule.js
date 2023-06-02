@@ -1,4 +1,0 @@
-exports.currentDateTime = ()=>
-{
-    return Date()
-}
