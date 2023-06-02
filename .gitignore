@@ -1,0 +1,10 @@
+/node_modules
+.app.js
+.AsyncModule.js
+.blockingcode.js
+.demofile1.html
+.main.js
+.mydatamodule.js
+.os.js
+.promises.js
+.syncModule.js
